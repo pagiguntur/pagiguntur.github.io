@@ -1,2 +1,4 @@
-# pagiguntur.github.io
-Personal
+# Jadwal Akademik Gregorius Guntur Sunardi Putra
+
+Tidak ada  
+- [Bimbingan]
