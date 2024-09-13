@@ -14,3 +14,4 @@ Tidak ada
 8. CNN Based Transfer Learning for Malaria Parasite Detection Using Thin-Blood Smear Image
 9. Perbandingan Particle Swarm Optimization dengan Genetic Algorithm dalam Feature Selection untuk Analisis Sentimen pada Permendikbudristek PPKS-LPT
 
+Last Update 13-09-2024
