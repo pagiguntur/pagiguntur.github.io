@@ -15,3 +15,5 @@ Tidak ada
 9. Perbandingan Particle Swarm Optimization dengan Genetic Algorithm dalam Feature Selection untuk Analisis Sentimen pada Permendikbudristek PPKS-LPT
 
 Last Update 13-09-2024
+
+[Data](https://drive.google.com/drive/u/0/folders/1-7O_O_tcCRuXlAWPQbCQTooMUskHwa2F) Kun
