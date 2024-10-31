@@ -3,6 +3,7 @@
 Tidak ada  
 - [Bimbingan]
 
+List of Publications on [Google Scholar](https://scholar.google.com/citations?hl=en&user=YY6piPUAAAAJ&view_op=list_works&sortby=pubdate) and [Scopus](https://www.scopus.com/authid/detail.uri?authorId=58920652900)
 
 1. American Sign Language to Text Translation using Transformer and Seq2Seq with LSTM
 2. Indonesian Lexical Ambiguity in Machine Translation: A Literature Review
