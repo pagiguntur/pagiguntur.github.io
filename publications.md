@@ -1,3 +1,5 @@
+[HOME](https://pagiguntur.github.io/) | [Resume](https://pagiguntur.github.io/CV-Gregorius%20Guntur.pdf) | [Publication](https://pagiguntur.github.io/publications)
+
 1. American Sign Language to Text Translation using Transformer and Seq2Seq with LSTM
 2. Indonesian Lexical Ambiguity in Machine Translation: A Literature Review
 3. Hyperparameter tuning for malaria detection using convolution neural network
