@@ -16,4 +16,5 @@ Tidak ada
 For things related to my research work:
 
       Email : greg.guntursunardi (at) gmail.com
+
 [Data](https://drive.google.com/drive/u/0/folders/1-7O_O_tcCRuXlAWPQbCQTooMUskHwa2F) Kun
