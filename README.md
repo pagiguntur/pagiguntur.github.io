@@ -5,8 +5,7 @@ Pagi Guntur is an Artificial Intelligence (AI) researcher with 3 years of experi
 
 # [Jadwal](https://calendar.google.com/calendar/u/1?cid=Ym9uYXJtYWxhbmdAZ21haWwuY29t) Akademik Gregorius Guntur Sunardi Putra
 
-Tidak ada  
-- [Bimbingan]
+- [Bimbingan] Selasa & Jumat
 
 # News
 -
